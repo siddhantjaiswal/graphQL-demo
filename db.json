@@ -1,0 +1,13 @@
+{
+  "users": [
+      {"id": "20", "firstName": "Siddhant", "age": 22, "companyId": "1"},
+      {"id": "21", "firstName": "SomeOne", "age": 21, "companyId": "2"},
+      {"id": "22", "firstName": "Demo", "age": 20, "companyId": "2"},
+      {"id": "23", "firstName": "DummyUser", "age": 19, "companyId": "3"}
+  ],
+  "companies": [
+    {"id": "1", "name": "Systango", "description": "Associate Software Engineer"},
+    {"id": "2", "name": "Microsoft", "description": "Tech Lead"},
+    {"id": "3", "name": "SomeCompany", "description": "Some Desc"}
+  ]
+}
